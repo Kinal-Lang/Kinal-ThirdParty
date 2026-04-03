@@ -1,0 +1,10 @@
+.cache/
+artifacts/
+**/prebuilt/
+**/*.obj
+**/*.o
+**/*.lib
+**/*.dll
+**/*.so
+**/*.a
+**/*.pdb
