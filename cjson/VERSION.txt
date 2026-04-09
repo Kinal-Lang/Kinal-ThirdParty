@@ -1,0 +1,4 @@
+Version: 1.7.19
+Tag: v1.7.19
+Source: https://github.com/DaveGamble/cJSON
+
